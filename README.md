@@ -1,7 +1,7 @@
 # Sistemas-Distribuidos
 
 
-##Como executar (versão distribuída) com CMD
+## Como executar (versão distribuída) com CMD
 1. Verifique que está no caminho src/main/java
 2. Caso os arquivos não estejam compilados, compile: javac com/distribuidos/distribuidos/*.java
 3. Inicie o RMIregistry (abrirá outro terminal que deve ser mantido aberto durante a execução): start rmiregistry (a notação pode variar em outros terminais)
